@@ -229,6 +229,7 @@ namespace InventoryManagement
         private void Btn_User_Query_Click(object sender, EventArgs e)
         {
             BingUser();
+
         }
         void BingUser()
         {
