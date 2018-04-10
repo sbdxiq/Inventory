@@ -1,0 +1,144 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\bin\Debug\InventoryManagement.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\bin\Debug\InventoryManagement.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Form1.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.exe
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.pdb
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Material.resources
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Units.resources
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\System.Data.SQLite.dll
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\System.Data.SQLite.xml
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\InventoryManagement.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\InventoryManagement.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\System.Data.SQLite.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\System.Data.SQLite.xml
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Form1.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Material.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Units.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Department.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.User.resources
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Department.resources
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.User.resources
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\obj\x86\Debug\InventoryManagement.Index.resources
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\NPOI.dll
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\NPOI.OOXML.dll
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Documents\Visual Studio 2015\Projects\InventoryManagement\bin\Debug\NPOI.xml
+F:\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+F:\InventoryManagement\bin\Debug\InventoryManagement.exe
+F:\InventoryManagement\bin\Debug\InventoryManagement.pdb
+F:\InventoryManagement\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\InventoryManagement\bin\Debug\NPOI.dll
+F:\InventoryManagement\bin\Debug\NPOI.OOXML.dll
+F:\InventoryManagement\bin\Debug\NPOI.OpenXml4Net.dll
+F:\InventoryManagement\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\InventoryManagement\bin\Debug\System.Data.SQLite.dll
+F:\InventoryManagement\bin\Debug\NPOI.xml
+F:\InventoryManagement\bin\Debug\System.Data.SQLite.xml
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.Department.resources
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.Index.resources
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.Material.resources
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.Properties.Resources.resources
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.Units.resources
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.User.resources
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.csproj.GenerateResource.Cache
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.exe
+F:\InventoryManagement\obj\x86\Debug\InventoryManagement.pdb
+F:\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe.config
+F:\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe.manifest
+F:\InventoryManagement - 副本\bin\Debug\InventoryManagement.application
+F:\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe
+F:\InventoryManagement - 副本\bin\Debug\InventoryManagement.pdb
+F:\InventoryManagement - 副本\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\InventoryManagement - 副本\bin\Debug\NPOI.dll
+F:\InventoryManagement - 副本\bin\Debug\NPOI.OOXML.dll
+F:\InventoryManagement - 副本\bin\Debug\NPOI.OpenXml4Net.dll
+F:\InventoryManagement - 副本\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\InventoryManagement - 副本\bin\Debug\System.Data.SQLite.dll
+F:\InventoryManagement - 副本\bin\Debug\NPOI.xml
+F:\InventoryManagement - 副本\bin\Debug\System.Data.SQLite.xml
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Department.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Index.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.InventoryEdit.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Material.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.OutventoryEdit.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Properties.Resources.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Units.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.User.resources
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.csproj.GenerateResource.Cache
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.exe.manifest
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.application
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.exe
+F:\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe.manifest
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\InventoryManagement.application
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\InventoryManagement.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\NPOI.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\NPOI.OOXML.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\NPOI.OpenXml4Net.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\System.Data.SQLite.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\NPOI.xml
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\bin\Debug\System.Data.SQLite.xml
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Department.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Index.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Material.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Units.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.User.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.exe.manifest
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.application
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.InInventoryEdit.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement - 副本\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.OutInventoryEdit.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe.manifest
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\InventoryManagement.application
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\InventoryManagement.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\InventoryManagement.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\NPOI.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\NPOI.OOXML.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\NPOI.OpenXml4Net.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\System.Data.SQLite.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\NPOI.xml
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\bin\Debug\System.Data.SQLite.xml
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Department.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Index.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.InInventoryEdit.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Material.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.OutInventoryEdit.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.Units.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.User.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.exe.manifest
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.application
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\InventoryManagement\InventoryManagement - 副本\obj\x86\Debug\InventoryManagement.pdb
